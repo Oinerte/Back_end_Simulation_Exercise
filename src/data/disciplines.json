@@ -1,0 +1,3485 @@
+[
+
+    {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "3d9f5d24-6631-4033-8b50-4d1e7084847b",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "02626d0d-546e-48a1-88ee-73a95c72a89a"
+          ],
+          "series" : null,
+          "name" : "Análise Fundamentalista",
+          "id" : "3d9f5d24-6631-4033-8b50-4d1e7084847b",
+          "mecCode" : "",
+          "creationDate" : "2021-12-10T15:37:47+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "78388479-2e18-4f1d-ac1f-e262230ba642",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "f26b89df-b9dd-43d2-aa3f-bd09de892d0a"
+          ],
+          "series" : [
+            {
+              "idSerie" : "647104a1-2ba8-4905-94f7-9b09a24dce95",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Desenvolvimento e Operações Agéis",
+          "id" : "78388479-2e18-4f1d-ac1f-e262230ba642",
+          "mecCode" : "",
+          "creationDate" : "2022-01-12T15:53:35+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "588716b1-35ba-4827-87b7-dbb969fe3cc0",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "f26b89df-b9dd-43d2-aa3f-bd09de892d0a"
+          ],
+          "series" : [
+            {
+              "idSerie" : "647104a1-2ba8-4905-94f7-9b09a24dce95",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Engenharia e Qualidade de Software",
+          "id" : "588716b1-35ba-4827-87b7-dbb969fe3cc0",
+          "mecCode" : "",
+          "creationDate" : "2022-01-12T15:53:40+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "c03585ca-ccf1-4564-a80e-9b9c83af31df",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "f26b89df-b9dd-43d2-aa3f-bd09de892d0a"
+          ],
+          "series" : [
+            {
+              "idSerie" : "9a171054-f683-42d5-87d6-5b04ae84d866",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Desenvolvimento de Aplicativo Móvel",
+          "id" : "c03585ca-ccf1-4564-a80e-9b9c83af31df",
+          "mecCode" : "",
+          "creationDate" : "2022-01-12T15:53:55+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "bb5fa24f-85f5-49cc-9f99-2789c68a4961",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "f26b89df-b9dd-43d2-aa3f-bd09de892d0a"
+          ],
+          "series" : [
+            {
+              "idSerie" : "647104a1-2ba8-4905-94f7-9b09a24dce95",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Programação Assíncrona",
+          "id" : "bb5fa24f-85f5-49cc-9f99-2789c68a4961",
+          "mecCode" : "",
+          "creationDate" : "2022-01-12T15:53:28+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "f008e2ac-e34d-448d-92f6-9d361a6ad670",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "f26b89df-b9dd-43d2-aa3f-bd09de892d0a"
+          ],
+          "series" : [
+            {
+              "idSerie" : "647104a1-2ba8-4905-94f7-9b09a24dce95",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Desenvolvimento II",
+          "id" : "f008e2ac-e34d-448d-92f6-9d361a6ad670",
+          "mecCode" : "",
+          "creationDate" : "2022-01-12T15:53:23+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "6b9254ff-ef8b-4747-8982-3888d5ce53db",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "f26b89df-b9dd-43d2-aa3f-bd09de892d0a"
+          ],
+          "series" : [
+            {
+              "idSerie" : "647104a1-2ba8-4905-94f7-9b09a24dce95",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Análise de Dados",
+          "id" : "6b9254ff-ef8b-4747-8982-3888d5ce53db",
+          "mecCode" : "",
+          "creationDate" : "2022-01-12T15:53:14+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "2b2d9eab-cf74-4526-8424-9987ad405395",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "f26b89df-b9dd-43d2-aa3f-bd09de892d0a"
+          ],
+          "series" : [
+            {
+              "idSerie" : "647104a1-2ba8-4905-94f7-9b09a24dce95",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Banco de dados II",
+          "id" : "2b2d9eab-cf74-4526-8424-9987ad405395",
+          "mecCode" : "",
+          "creationDate" : "2022-01-12T15:53:18+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "ca2ca3ec-cb39-4e1e-add2-643cefb7a729",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "f26b89df-b9dd-43d2-aa3f-bd09de892d0a"
+          ],
+          "series" : [
+            {
+              "idSerie" : "9a171054-f683-42d5-87d6-5b04ae84d866",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Sistema Orientado Mensagens",
+          "id" : "ca2ca3ec-cb39-4e1e-add2-643cefb7a729",
+          "mecCode" : "",
+          "creationDate" : "2022-01-12T15:54:26+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "de1a9cd7-1f13-49a0-a00c-966a0b4261d5",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "f26b89df-b9dd-43d2-aa3f-bd09de892d0a"
+          ],
+          "series" : [
+            {
+              "idSerie" : "9a171054-f683-42d5-87d6-5b04ae84d866",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Segurança Cibernética",
+          "id" : "de1a9cd7-1f13-49a0-a00c-966a0b4261d5",
+          "mecCode" : "",
+          "creationDate" : "2022-01-12T15:54:03+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "276028ba-e071-46ca-bdbe-66a0b7750243",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "f26b89df-b9dd-43d2-aa3f-bd09de892d0a"
+          ],
+          "series" : [
+            {
+              "idSerie" : "9a171054-f683-42d5-87d6-5b04ae84d866",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Arquitetura de Sistemas",
+          "id" : "276028ba-e071-46ca-bdbe-66a0b7750243",
+          "mecCode" : "",
+          "creationDate" : "2022-01-12T15:54:15+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "54b9a7be-df3b-4621-8d45-2c3a828183af",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "f26b89df-b9dd-43d2-aa3f-bd09de892d0a"
+          ],
+          "series" : [
+            {
+              "idSerie" : "9a171054-f683-42d5-87d6-5b04ae84d866",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Projeto de Conclusão",
+          "id" : "54b9a7be-df3b-4621-8d45-2c3a828183af",
+          "mecCode" : "",
+          "creationDate" : "2022-01-12T15:54:31+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "7fc6b935-c7df-40fc-ba2e-923b3fee7558",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "9fe6ad1c-ad22-4daa-8b94-8491eaea424e"
+          ],
+          "series" : [
+            {
+              "idSerie" : "28808d7a-803a-49cb-b8ff-e209d4dcb892",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Gestão Comercial",
+          "id" : "7fc6b935-c7df-40fc-ba2e-923b3fee7558",
+          "mecCode" : "",
+          "creationDate" : "2022-02-04T01:24:54+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "2f86cdaf-3988-4910-93e8-92cac39fee82",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "9fe6ad1c-ad22-4daa-8b94-8491eaea424e"
+          ],
+          "series" : [
+            {
+              "idSerie" : "6f662aa6-2160-4e35-bdcf-29635f019c10",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Fundamentos do Varejo",
+          "id" : "2f86cdaf-3988-4910-93e8-92cac39fee82",
+          "mecCode" : "",
+          "creationDate" : "2022-02-04T01:09:03+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "48cd7422-9c92-403f-9d05-b56ac3af6a3e",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "02626d0d-546e-48a1-88ee-73a95c72a89a"
+          ],
+          "series" : [
+            {
+              "idSerie" : "125fe721-2fdb-4092-b9b4-c2dc1ce7d0a4",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Empreendedorismo Digital",
+          "id" : "48cd7422-9c92-403f-9d05-b56ac3af6a3e",
+          "mecCode" : "",
+          "creationDate" : "2022-02-04T01:13:45+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "bc8ad23a-29e8-4bc7-85b8-5b5f22ae16dd",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "9fe6ad1c-ad22-4daa-8b94-8491eaea424e"
+          ],
+          "series" : [
+            {
+              "idSerie" : "125fe721-2fdb-4092-b9b4-c2dc1ce7d0a4",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Formação Estratégica",
+          "id" : "bc8ad23a-29e8-4bc7-85b8-5b5f22ae16dd",
+          "mecCode" : "",
+          "creationDate" : "2022-02-04T01:13:21+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "6dbe778c-245f-4840-849a-58dfceec495d",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "d893bb06-100f-4cdc-bef3-49a6145b2d9f"
+          ],
+          "series" : [
+            {
+              "idSerie" : "6f662aa6-2160-4e35-bdcf-29635f019c10",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "125fe721-2fdb-4092-b9b4-c2dc1ce7d0a4",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "716c9d3c-d97b-40b9-a159-1a850172693d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Ciências",
+          "id" : "6dbe778c-245f-4840-849a-58dfceec495d",
+          "mecCode" : "",
+          "creationDate" : "2022-02-04T01:20:15+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "988fb04d-b6eb-40d3-bc82-8c8f5ae9206c",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "2fe4d66c-25a3-471d-bdff-31232c39f117"
+          ],
+          "series" : [
+            {
+              "idSerie" : "6f662aa6-2160-4e35-bdcf-29635f019c10",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "125fe721-2fdb-4092-b9b4-c2dc1ce7d0a4",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Informática",
+          "id" : "988fb04d-b6eb-40d3-bc82-8c8f5ae9206c",
+          "mecCode" : "",
+          "creationDate" : "2022-02-04T01:21:11+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "ec0037c2-1628-4e34-be43-63209bc16aad",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "9fe6ad1c-ad22-4daa-8b94-8491eaea424e"
+          ],
+          "series" : [
+            {
+              "idSerie" : "716c9d3c-d97b-40b9-a159-1a850172693d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Canais de Distribuição e Cadeias de Suprimentos",
+          "id" : "ec0037c2-1628-4e34-be43-63209bc16aad",
+          "mecCode" : "",
+          "creationDate" : "2022-02-04T01:21:26+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "9986e61f-2eb6-4683-b72c-d378ff5d8181",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "02626d0d-546e-48a1-88ee-73a95c72a89a"
+          ],
+          "series" : [
+            {
+              "idSerie" : "6f662aa6-2160-4e35-bdcf-29635f019c10",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "125fe721-2fdb-4092-b9b4-c2dc1ce7d0a4",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "716c9d3c-d97b-40b9-a159-1a850172693d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "28808d7a-803a-49cb-b8ff-e209d4dcb892",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Geometria",
+          "id" : "9986e61f-2eb6-4683-b72c-d378ff5d8181",
+          "mecCode" : "",
+          "creationDate" : "2022-02-04T01:23:17+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "57ec69f7-b327-4c95-a658-4a088730a8cb",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "02626d0d-546e-48a1-88ee-73a95c72a89a"
+          ],
+          "series" : [
+            {
+              "idSerie" : "716c9d3c-d97b-40b9-a159-1a850172693d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "28808d7a-803a-49cb-b8ff-e209d4dcb892",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Mercado de Capitais",
+          "id" : "57ec69f7-b327-4c95-a658-4a088730a8cb",
+          "mecCode" : "",
+          "creationDate" : "2022-02-04T01:23:05+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "23f65cad-2bb4-49f2-80d0-39ff2e2fcfa0",
+        "_score" : 1.0,
+        "_source" : {
+          "creationDate" : "2022-02-04T01:42:57+00:00",
+          "updateDate" : null,
+          "isActive" : false,
+          "id" : "23f65cad-2bb4-49f2-80d0-39ff2e2fcfa0",
+          "name" : "Condicionamento Físico",
+          "mecCode" : "",
+          "abbreviation" : "",
+          "knowledgeAreas" : null,
+          "series" : null,
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "lastUpdateIsActive" : "2022-02-04T01:44:01.612Z"
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "4aaf6d97-a786-4c69-9552-3c72cb1b9589",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "02626d0d-546e-48a1-88ee-73a95c72a89a"
+          ],
+          "series" : [
+            {
+              "idSerie" : "28808d7a-803a-49cb-b8ff-e209d4dcb892",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Economia 4",
+          "id" : "4aaf6d97-a786-4c69-9552-3c72cb1b9589",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T21:11:28+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "c2e555bc-11b7-4df0-b326-c5f9c95f0cec",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "02626d0d-546e-48a1-88ee-73a95c72a89a"
+          ],
+          "series" : [
+            {
+              "idSerie" : "125fe721-2fdb-4092-b9b4-c2dc1ce7d0a4",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Economia 2",
+          "id" : "c2e555bc-11b7-4df0-b326-c5f9c95f0cec",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T21:20:20+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "f1340160-41a3-4843-9319-06e97693123b",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "02626d0d-546e-48a1-88ee-73a95c72a89a"
+          ],
+          "series" : [
+            {
+              "idSerie" : "716c9d3c-d97b-40b9-a159-1a850172693d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Economia 3",
+          "id" : "f1340160-41a3-4843-9319-06e97693123b",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T21:20:22+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "ccfdda28-d64f-4d9f-aac3-6f22ba98fd11",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "02626d0d-546e-48a1-88ee-73a95c72a89a"
+          ],
+          "series" : [
+            {
+              "idSerie" : "6f662aa6-2160-4e35-bdcf-29635f019c10",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Economia 1",
+          "id" : "ccfdda28-d64f-4d9f-aac3-6f22ba98fd11",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T21:20:16+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "ace8ad14-8868-42ca-9824-52b2716cc0ea",
+        "_score" : 1.0,
+        "_source" : {
+          "creationDate" : "2022-02-05T21:17:45+00:00",
+          "updateDate" : null,
+          "isActive" : true,
+          "id" : "ace8ad14-8868-42ca-9824-52b2716cc0ea",
+          "name" : "Orientação de Estudos",
+          "mecCode" : "",
+          "abbreviation" : "",
+          "knowledgeAreas" : null,
+          "series" : [
+            {
+              "idSerie" : "6f662aa6-2160-4e35-bdcf-29635f019c10",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "716c9d3c-d97b-40b9-a159-1a850172693d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9"
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "ae44130c-1501-4713-83d7-343aa6add7d1",
+        "_score" : 1.0,
+        "_source" : {
+          "creationDate" : "2022-02-04T01:30:22+00:00",
+          "updateDate" : null,
+          "isActive" : false,
+          "id" : "ae44130c-1501-4713-83d7-343aa6add7d1",
+          "name" : "Condicionamento Físico",
+          "mecCode" : "",
+          "abbreviation" : "",
+          "knowledgeAreas" : null,
+          "series" : null,
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "lastUpdateIsActive" : "2022-02-04T01:43:56.968Z"
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "d237a0dc-06ed-4e4a-b1a0-12dfca0932c7",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "9fe6ad1c-ad22-4daa-8b94-8491eaea424e"
+          ],
+          "series" : [
+            {
+              "idSerie" : "5e6211e5-f389-4845-8679-b041b9923109",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "aaa23be8-f357-4f30-99b0-85a67e6c066f",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Gestão de Varejo I",
+          "id" : "d237a0dc-06ed-4e4a-b1a0-12dfca0932c7",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T21:35:29+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "eefe67e5-d9b4-4d92-adff-80dcdfba121c",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "d893bb06-100f-4cdc-bef3-49a6145b2d9f"
+          ],
+          "series" : [
+            {
+              "idSerie" : "6f662aa6-2160-4e35-bdcf-29635f019c10",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "125fe721-2fdb-4092-b9b4-c2dc1ce7d0a4",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "716c9d3c-d97b-40b9-a159-1a850172693d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "28808d7a-803a-49cb-b8ff-e209d4dcb892",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "5e6211e5-f389-4845-8679-b041b9923109",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "aaa23be8-f357-4f30-99b0-85a67e6c066f",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Commodities",
+          "id" : "eefe67e5-d9b4-4d92-adff-80dcdfba121c",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T21:35:39+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "879f3f3a-902e-44e0-aa11-ab6661a56391",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "02626d0d-546e-48a1-88ee-73a95c72a89a"
+          ],
+          "series" : [
+            {
+              "idSerie" : "f13a1a32-d56c-4466-a562-504b64fa0f0d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Análise Técnica",
+          "id" : "879f3f3a-902e-44e0-aa11-ab6661a56391",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T21:42:46+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "52e110d6-0691-4d74-b083-7a9460c997da",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "02626d0d-546e-48a1-88ee-73a95c72a89a"
+          ],
+          "series" : [
+            {
+              "idSerie" : "f13a1a32-d56c-4466-a562-504b64fa0f0d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f7f7b9df-fe10-4a9c-ab82-d7d7bf455d6c",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Matemática Financeira",
+          "id" : "52e110d6-0691-4d74-b083-7a9460c997da",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T21:48:46+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "b221cae6-15d5-41ef-8cd3-5724d939b2e0",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "02626d0d-546e-48a1-88ee-73a95c72a89a"
+          ],
+          "series" : [
+            {
+              "idSerie" : "f7f7b9df-fe10-4a9c-ab82-d7d7bf455d6c",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f13a1a32-d56c-4466-a562-504b64fa0f0d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Conjuntura Econômica",
+          "id" : "b221cae6-15d5-41ef-8cd3-5724d939b2e0",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T21:49:44+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "454195fd-f144-4c05-a977-68d94a8ce780",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "02626d0d-546e-48a1-88ee-73a95c72a89a"
+          ],
+          "series" : [
+            {
+              "idSerie" : "f7f7b9df-fe10-4a9c-ab82-d7d7bf455d6c",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "CEA",
+          "id" : "454195fd-f144-4c05-a977-68d94a8ce780",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T21:49:25+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "903109d2-46ee-436a-baa7-fd3254725f21",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "9fe6ad1c-ad22-4daa-8b94-8491eaea424e"
+          ],
+          "series" : [
+            {
+              "idSerie" : "6f662aa6-2160-4e35-bdcf-29635f019c10",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "125fe721-2fdb-4092-b9b4-c2dc1ce7d0a4",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "716c9d3c-d97b-40b9-a159-1a850172693d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "28808d7a-803a-49cb-b8ff-e209d4dcb892",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "5e6211e5-f389-4845-8679-b041b9923109",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "aaa23be8-f357-4f30-99b0-85a67e6c066f",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "3e68ab2a-bf71-4eb0-ba68-1524a01dbdf9",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f13a1a32-d56c-4466-a562-504b64fa0f0d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f7f7b9df-fe10-4a9c-ab82-d7d7bf455d6c",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "2bba2148-76bf-4de6-9ab1-15d1225f5549",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "a0fe9e40-92f6-4d82-ade5-c724d960eabf",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Chefia e Liderança",
+          "id" : "903109d2-46ee-436a-baa7-fd3254725f21",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T22:01:51+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "c44cc7a3-6dc7-4412-95a3-63213f4792a1",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "2fe4d66c-25a3-471d-bdff-31232c39f117"
+          ],
+          "series" : [
+            {
+              "idSerie" : "6f662aa6-2160-4e35-bdcf-29635f019c10",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "125fe721-2fdb-4092-b9b4-c2dc1ce7d0a4",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "716c9d3c-d97b-40b9-a159-1a850172693d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "28808d7a-803a-49cb-b8ff-e209d4dcb892",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "5e6211e5-f389-4845-8679-b041b9923109",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "aaa23be8-f357-4f30-99b0-85a67e6c066f",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f13a1a32-d56c-4466-a562-504b64fa0f0d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f7f7b9df-fe10-4a9c-ab82-d7d7bf455d6c",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "2bba2148-76bf-4de6-9ab1-15d1225f5549",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "a0fe9e40-92f6-4d82-ade5-c724d960eabf",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Contabilidade",
+          "id" : "c44cc7a3-6dc7-4412-95a3-63213f4792a1",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T22:01:57+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "b06b626f-bea4-406c-a030-97ea0cfa8412",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "02626d0d-546e-48a1-88ee-73a95c72a89a"
+          ],
+          "series" : [
+            {
+              "idSerie" : "716c9d3c-d97b-40b9-a159-1a850172693d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "28808d7a-803a-49cb-b8ff-e209d4dcb892",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "5e6211e5-f389-4845-8679-b041b9923109",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "aaa23be8-f357-4f30-99b0-85a67e6c066f",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "3e68ab2a-bf71-4eb0-ba68-1524a01dbdf9",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f13a1a32-d56c-4466-a562-504b64fa0f0d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f7f7b9df-fe10-4a9c-ab82-d7d7bf455d6c",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "2bba2148-76bf-4de6-9ab1-15d1225f5549",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "a0fe9e40-92f6-4d82-ade5-c724d960eabf",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Estatística, Dados e Estatística Aplicada",
+          "id" : "b06b626f-bea4-406c-a030-97ea0cfa8412",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T22:01:15+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "eed66dbd-b4a7-460e-9557-7f311a0fdd88",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "f26b89df-b9dd-43d2-aa3f-bd09de892d0a"
+          ],
+          "series" : [ ],
+          "name" : "Interação Humano-Computador",
+          "id" : "eed66dbd-b4a7-460e-9557-7f311a0fdd88",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T22:00:52+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "23d4e85e-e90d-4f62-9efd-8373cecc468d",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "847dc4f2-dcb8-48b9-9e5f-d690da812eb1"
+          ],
+          "series" : [
+            {
+              "idSerie" : "6f662aa6-2160-4e35-bdcf-29635f019c10",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "125fe721-2fdb-4092-b9b4-c2dc1ce7d0a4",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "716c9d3c-d97b-40b9-a159-1a850172693d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "28808d7a-803a-49cb-b8ff-e209d4dcb892",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "5e6211e5-f389-4845-8679-b041b9923109",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "aaa23be8-f357-4f30-99b0-85a67e6c066f",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "3e68ab2a-bf71-4eb0-ba68-1524a01dbdf9",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f13a1a32-d56c-4466-a562-504b64fa0f0d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f7f7b9df-fe10-4a9c-ab82-d7d7bf455d6c",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "2bba2148-76bf-4de6-9ab1-15d1225f5549",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "a0fe9e40-92f6-4d82-ade5-c724d960eabf",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "ad949328-cad3-4090-87e6-05cece0d4f71",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Língua Portuguesa",
+          "id" : "23d4e85e-e90d-4f62-9efd-8373cecc468d",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T22:12:36+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "d3f29969-0ab4-4859-b783-2ca362dc0cfe",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "2fe4d66c-25a3-471d-bdff-31232c39f117"
+          ],
+          "series" : [
+            {
+              "idSerie" : "716c9d3c-d97b-40b9-a159-1a850172693d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "28808d7a-803a-49cb-b8ff-e209d4dcb892",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "5e6211e5-f389-4845-8679-b041b9923109",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "aaa23be8-f357-4f30-99b0-85a67e6c066f",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "3e68ab2a-bf71-4eb0-ba68-1524a01dbdf9",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f13a1a32-d56c-4466-a562-504b64fa0f0d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f7f7b9df-fe10-4a9c-ab82-d7d7bf455d6c",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "2bba2148-76bf-4de6-9ab1-15d1225f5549",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "a0fe9e40-92f6-4d82-ade5-c724d960eabf",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Jurídico",
+          "id" : "d3f29969-0ab4-4859-b783-2ca362dc0cfe",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T22:02:08+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "98fe3471-d162-4014-876c-89f02a74c95c",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "2fe4d66c-25a3-471d-bdff-31232c39f117"
+          ],
+          "series" : [
+            {
+              "idSerie" : "716c9d3c-d97b-40b9-a159-1a850172693d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "28808d7a-803a-49cb-b8ff-e209d4dcb892",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "5e6211e5-f389-4845-8679-b041b9923109",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "aaa23be8-f357-4f30-99b0-85a67e6c066f",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "3e68ab2a-bf71-4eb0-ba68-1524a01dbdf9",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f13a1a32-d56c-4466-a562-504b64fa0f0d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f7f7b9df-fe10-4a9c-ab82-d7d7bf455d6c",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "2bba2148-76bf-4de6-9ab1-15d1225f5549",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "a0fe9e40-92f6-4d82-ade5-c724d960eabf",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Fiscal",
+          "id" : "98fe3471-d162-4014-876c-89f02a74c95c",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T22:02:03+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "32997625-4590-4978-805f-f1bc039e5ca4",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "02626d0d-546e-48a1-88ee-73a95c72a89a"
+          ],
+          "series" : [
+            {
+              "idSerie" : "2bba2148-76bf-4de6-9ab1-15d1225f5549",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "a0fe9e40-92f6-4d82-ade5-c724d960eabf",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "CPA 20/Orientação",
+          "id" : "32997625-4590-4978-805f-f1bc039e5ca4",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T22:02:23+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "3f76c82c-2938-4b3a-830f-6900a4548249",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "02626d0d-546e-48a1-88ee-73a95c72a89a"
+          ],
+          "series" : [
+            {
+              "idSerie" : "6f662aa6-2160-4e35-bdcf-29635f019c10",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "125fe721-2fdb-4092-b9b4-c2dc1ce7d0a4",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "716c9d3c-d97b-40b9-a159-1a850172693d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "28808d7a-803a-49cb-b8ff-e209d4dcb892",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "5e6211e5-f389-4845-8679-b041b9923109",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "aaa23be8-f357-4f30-99b0-85a67e6c066f",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "3e68ab2a-bf71-4eb0-ba68-1524a01dbdf9",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f13a1a32-d56c-4466-a562-504b64fa0f0d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f7f7b9df-fe10-4a9c-ab82-d7d7bf455d6c",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "2bba2148-76bf-4de6-9ab1-15d1225f5549",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "a0fe9e40-92f6-4d82-ade5-c724d960eabf",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "ad949328-cad3-4090-87e6-05cece0d4f71",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Matemática",
+          "id" : "3f76c82c-2938-4b3a-830f-6900a4548249",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T22:13:31+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "16135da3-e716-4c82-bbdd-500cac42a525",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "847dc4f2-dcb8-48b9-9e5f-d690da812eb1"
+          ],
+          "series" : [
+            {
+              "idSerie" : "6f662aa6-2160-4e35-bdcf-29635f019c10",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "125fe721-2fdb-4092-b9b4-c2dc1ce7d0a4",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "716c9d3c-d97b-40b9-a159-1a850172693d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "28808d7a-803a-49cb-b8ff-e209d4dcb892",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "5e6211e5-f389-4845-8679-b041b9923109",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "aaa23be8-f357-4f30-99b0-85a67e6c066f",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "3e68ab2a-bf71-4eb0-ba68-1524a01dbdf9",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f13a1a32-d56c-4466-a562-504b64fa0f0d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f7f7b9df-fe10-4a9c-ab82-d7d7bf455d6c",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "2bba2148-76bf-4de6-9ab1-15d1225f5549",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "a0fe9e40-92f6-4d82-ade5-c724d960eabf",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "ad949328-cad3-4090-87e6-05cece0d4f71",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Inglês",
+          "id" : "16135da3-e716-4c82-bbdd-500cac42a525",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T22:12:39+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "17ddccf7-25a3-41f9-9d49-b7bee1eaa475",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "847dc4f2-dcb8-48b9-9e5f-d690da812eb1"
+          ],
+          "series" : [
+            {
+              "idSerie" : "6f662aa6-2160-4e35-bdcf-29635f019c10",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "125fe721-2fdb-4092-b9b4-c2dc1ce7d0a4",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "716c9d3c-d97b-40b9-a159-1a850172693d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "28808d7a-803a-49cb-b8ff-e209d4dcb892",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "5e6211e5-f389-4845-8679-b041b9923109",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "aaa23be8-f357-4f30-99b0-85a67e6c066f",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f13a1a32-d56c-4466-a562-504b64fa0f0d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f7f7b9df-fe10-4a9c-ab82-d7d7bf455d6c",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "2bba2148-76bf-4de6-9ab1-15d1225f5549",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "a0fe9e40-92f6-4d82-ade5-c724d960eabf",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "ad949328-cad3-4090-87e6-05cece0d4f71",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Geografia",
+          "id" : "17ddccf7-25a3-41f9-9d49-b7bee1eaa475",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T22:13:56+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "3b784163-6ebc-44b7-88bb-71fd68fd2b26",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "847dc4f2-dcb8-48b9-9e5f-d690da812eb1"
+          ],
+          "series" : [
+            {
+              "idSerie" : "6f662aa6-2160-4e35-bdcf-29635f019c10",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "125fe721-2fdb-4092-b9b4-c2dc1ce7d0a4",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "716c9d3c-d97b-40b9-a159-1a850172693d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "28808d7a-803a-49cb-b8ff-e209d4dcb892",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "5e6211e5-f389-4845-8679-b041b9923109",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "aaa23be8-f357-4f30-99b0-85a67e6c066f",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f13a1a32-d56c-4466-a562-504b64fa0f0d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f7f7b9df-fe10-4a9c-ab82-d7d7bf455d6c",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "2bba2148-76bf-4de6-9ab1-15d1225f5549",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "a0fe9e40-92f6-4d82-ade5-c724d960eabf",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "ad949328-cad3-4090-87e6-05cece0d4f71",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "História",
+          "id" : "3b784163-6ebc-44b7-88bb-71fd68fd2b26",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T22:14:01+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "b4495f03-70bb-4655-be70-d84cb07ef75a",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "847dc4f2-dcb8-48b9-9e5f-d690da812eb1"
+          ],
+          "series" : [
+            {
+              "idSerie" : "6f662aa6-2160-4e35-bdcf-29635f019c10",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "125fe721-2fdb-4092-b9b4-c2dc1ce7d0a4",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "716c9d3c-d97b-40b9-a159-1a850172693d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "5e6211e5-f389-4845-8679-b041b9923109",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "aaa23be8-f357-4f30-99b0-85a67e6c066f",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f13a1a32-d56c-4466-a562-504b64fa0f0d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f7f7b9df-fe10-4a9c-ab82-d7d7bf455d6c",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "2bba2148-76bf-4de6-9ab1-15d1225f5549",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "a0fe9e40-92f6-4d82-ade5-c724d960eabf",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "ad949328-cad3-4090-87e6-05cece0d4f71",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Condicionamento Físico",
+          "id" : "b4495f03-70bb-4655-be70-d84cb07ef75a",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T22:12:48+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "2cf23963-32b7-471a-89d9-f0672326c623",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "d893bb06-100f-4cdc-bef3-49a6145b2d9f"
+          ],
+          "series" : [
+            {
+              "idSerie" : "28808d7a-803a-49cb-b8ff-e209d4dcb892",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "5e6211e5-f389-4845-8679-b041b9923109",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "aaa23be8-f357-4f30-99b0-85a67e6c066f",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f13a1a32-d56c-4466-a562-504b64fa0f0d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f7f7b9df-fe10-4a9c-ab82-d7d7bf455d6c",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "2bba2148-76bf-4de6-9ab1-15d1225f5549",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "a0fe9e40-92f6-4d82-ade5-c724d960eabf",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "ad949328-cad3-4090-87e6-05cece0d4f71",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Química ",
+          "id" : "2cf23963-32b7-471a-89d9-f0672326c623",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T22:13:50+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "93458822-822e-4747-8d8d-de623c75cca4",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "d893bb06-100f-4cdc-bef3-49a6145b2d9f"
+          ],
+          "series" : [
+            {
+              "idSerie" : "28808d7a-803a-49cb-b8ff-e209d4dcb892",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "5e6211e5-f389-4845-8679-b041b9923109",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "aaa23be8-f357-4f30-99b0-85a67e6c066f",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f13a1a32-d56c-4466-a562-504b64fa0f0d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f7f7b9df-fe10-4a9c-ab82-d7d7bf455d6c",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "2bba2148-76bf-4de6-9ab1-15d1225f5549",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "a0fe9e40-92f6-4d82-ade5-c724d960eabf",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "ad949328-cad3-4090-87e6-05cece0d4f71",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Biologia",
+          "id" : "93458822-822e-4747-8d8d-de623c75cca4",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T22:13:40+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "fa266b9d-9022-4188-a459-0b7fd1e48d9e",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "d893bb06-100f-4cdc-bef3-49a6145b2d9f"
+          ],
+          "series" : [
+            {
+              "idSerie" : "28808d7a-803a-49cb-b8ff-e209d4dcb892",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "5e6211e5-f389-4845-8679-b041b9923109",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "aaa23be8-f357-4f30-99b0-85a67e6c066f",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f13a1a32-d56c-4466-a562-504b64fa0f0d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f7f7b9df-fe10-4a9c-ab82-d7d7bf455d6c",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "2bba2148-76bf-4de6-9ab1-15d1225f5549",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "a0fe9e40-92f6-4d82-ade5-c724d960eabf",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "ad949328-cad3-4090-87e6-05cece0d4f71",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Física",
+          "id" : "fa266b9d-9022-4188-a459-0b7fd1e48d9e",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T22:13:44+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "ecf68931-d413-4c69-bc32-b4d6c1b54ae0",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "847dc4f2-dcb8-48b9-9e5f-d690da812eb1"
+          ],
+          "series" : [
+            {
+              "idSerie" : "5e6211e5-f389-4845-8679-b041b9923109",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f13a1a32-d56c-4466-a562-504b64fa0f0d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "2bba2148-76bf-4de6-9ab1-15d1225f5549",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "ad949328-cad3-4090-87e6-05cece0d4f71",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Sociologia",
+          "id" : "ecf68931-d413-4c69-bc32-b4d6c1b54ae0",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T22:14:11+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "ee36215a-43b4-4d67-a3aa-85df35484b5b",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "847dc4f2-dcb8-48b9-9e5f-d690da812eb1"
+          ],
+          "series" : [
+            {
+              "idSerie" : "aaa23be8-f357-4f30-99b0-85a67e6c066f",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f7f7b9df-fe10-4a9c-ab82-d7d7bf455d6c",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "a0fe9e40-92f6-4d82-ade5-c724d960eabf",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "ad949328-cad3-4090-87e6-05cece0d4f71",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Filosofia",
+          "id" : "ee36215a-43b4-4d67-a3aa-85df35484b5b",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T22:14:05+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "6edadf3d-5ddb-4c41-81d5-2d5262badd25",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "f26b89df-b9dd-43d2-aa3f-bd09de892d0a"
+          ],
+          "series" : [
+            {
+              "idSerie" : "ad949328-cad3-4090-87e6-05cece0d4f71",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Desenvolvimento de Aplicação Dinâmica",
+          "id" : "6edadf3d-5ddb-4c41-81d5-2d5262badd25",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T22:14:48+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "863810a7-46a8-46b2-bb5b-83ae8f699ef3",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "f26b89df-b9dd-43d2-aa3f-bd09de892d0a"
+          ],
+          "series" : [
+            {
+              "idSerie" : "ad949328-cad3-4090-87e6-05cece0d4f71",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Sistemas Operacionais",
+          "id" : "863810a7-46a8-46b2-bb5b-83ae8f699ef3",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T22:14:59+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "ea6e1962-68a6-4393-9d09-69382ea8fd84",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "f26b89df-b9dd-43d2-aa3f-bd09de892d0a"
+          ],
+          "series" : [
+            {
+              "idSerie" : "ad949328-cad3-4090-87e6-05cece0d4f71",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Desenvolvimento I",
+          "id" : "ea6e1962-68a6-4393-9d09-69382ea8fd84",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T22:14:42+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "b0fb4fec-1156-4594-988a-3f89c884133e",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "f26b89df-b9dd-43d2-aa3f-bd09de892d0a"
+          ],
+          "series" : [
+            {
+              "idSerie" : "ad949328-cad3-4090-87e6-05cece0d4f71",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Banco de dados I",
+          "id" : "b0fb4fec-1156-4594-988a-3f89c884133e",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T22:14:53+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "d421315f-5cbf-4d2a-927f-dcd2a1cd19b9",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "f26b89df-b9dd-43d2-aa3f-bd09de892d0a"
+          ],
+          "lastUpdateIsActive" : "2021-12-08T14:28:13.867Z",
+          "series" : [
+            {
+              "idSerie" : "ad949328-cad3-4090-87e6-05cece0d4f71",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Programação Orientada a Objetos",
+          "id" : "d421315f-5cbf-4d2a-927f-dcd2a1cd19b9",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T22:14:26+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "390bd0df-daec-4406-9002-8c209c279b9f",
+        "_score" : 1.0,
+        "_source" : {
+          "creationDate" : "2022-02-07T13:50:53+00:00",
+          "updateDate" : null,
+          "isActive" : false,
+          "id" : "390bd0df-daec-4406-9002-8c209c279b9f",
+          "name" : "Arte/ Desenvolvimento Aplicado",
+          "mecCode" : "",
+          "abbreviation" : "",
+          "knowledgeAreas" : [
+            "f26b89df-b9dd-43d2-aa3f-bd09de892d0a"
+          ],
+          "series" : [ ],
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "lastUpdateIsActive" : "2022-02-07T22:29:47.250Z"
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "9aefed3e-9bf1-4d6f-b139-2d7fc0af2f10",
+        "_score" : 1.0,
+        "_source" : {
+          "creationDate" : "2022-02-07T03:16:15+00:00",
+          "updateDate" : null,
+          "isActive" : true,
+          "id" : "9aefed3e-9bf1-4d6f-b139-2d7fc0af2f10",
+          "name" : "CEA/Análise de ações",
+          "mecCode" : "",
+          "abbreviation" : "",
+          "knowledgeAreas" : [
+            "02626d0d-546e-48a1-88ee-73a95c72a89a"
+          ],
+          "series" : null,
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9"
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "153e8aa6-748f-4902-860c-732218682595",
+        "_score" : 1.0,
+        "_source" : {
+          "creationDate" : "2022-02-07T05:54:33+00:00",
+          "updateDate" : null,
+          "isActive" : false,
+          "id" : "153e8aa6-748f-4902-860c-732218682595",
+          "name" : "Tecnologia análise de dados II",
+          "mecCode" : "",
+          "abbreviation" : "",
+          "knowledgeAreas" : [
+            "35d5a429-8b27-460e-8785-c987ce154a9b"
+          ],
+          "series" : [ ],
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "lastUpdateIsActive" : "2022-03-14T16:44:41.318Z"
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "0005b38c-222c-46d0-b9c7-853401090a4d",
+        "_score" : 1.0,
+        "_source" : {
+          "creationDate" : "2022-02-07T03:12:22+00:00",
+          "updateDate" : null,
+          "isActive" : false,
+          "id" : "0005b38c-222c-46d0-b9c7-853401090a4d",
+          "name" : "TI - Tecnologia da Informação II",
+          "mecCode" : "",
+          "abbreviation" : "",
+          "knowledgeAreas" : [
+            "35d5a429-8b27-460e-8785-c987ce154a9b"
+          ],
+          "series" : null,
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "lastUpdateIsActive" : "2022-02-09T17:31:18.747Z"
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "c92c0f67-5bfa-4b42-8965-fc6e2b876cc3",
+        "_score" : 1.0,
+        "_source" : {
+          "creationDate" : "2022-02-07T13:52:30+00:00",
+          "updateDate" : null,
+          "isActive" : false,
+          "id" : "c92c0f67-5bfa-4b42-8965-fc6e2b876cc3",
+          "name" : "Tecnologia análise  de dados",
+          "mecCode" : "",
+          "abbreviation" : "",
+          "knowledgeAreas" : [
+            "35d5a429-8b27-460e-8785-c987ce154a9b"
+          ],
+          "series" : [ ],
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "lastUpdateIsActive" : "2022-03-14T16:44:34.421Z"
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "d627fa8e-c4e2-4895-b46e-f51d02a3b4d9",
+        "_score" : 1.0,
+        "_source" : {
+          "creationDate" : "2022-02-07T03:11:21+00:00",
+          "updateDate" : null,
+          "isActive" : false,
+          "id" : "d627fa8e-c4e2-4895-b46e-f51d02a3b4d9",
+          "name" : "Arte/Design Digital",
+          "mecCode" : "",
+          "abbreviation" : "",
+          "knowledgeAreas" : [
+            "35d5a429-8b27-460e-8785-c987ce154a9b"
+          ],
+          "series" : null,
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "lastUpdateIsActive" : "2022-03-14T16:40:19.433Z"
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "53d2fc85-d1b6-44c9-9225-3fc42c0f4bcf",
+        "_score" : 1.0,
+        "_source" : {
+          "creationDate" : "2022-02-07T03:13:28+00:00",
+          "updateDate" : null,
+          "isActive" : false,
+          "id" : "53d2fc85-d1b6-44c9-9225-3fc42c0f4bcf",
+          "name" : "Gestão Varejo I",
+          "mecCode" : "",
+          "abbreviation" : "",
+          "knowledgeAreas" : [
+            "9fe6ad1c-ad22-4daa-8b94-8491eaea424e"
+          ],
+          "series" : null,
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "lastUpdateIsActive" : "2022-02-08T21:54:10.737Z"
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "ea309651-4a8d-4593-afc8-120d69de61c3",
+        "_score" : 1.0,
+        "_source" : {
+          "creationDate" : "2022-02-04T01:41:45+00:00",
+          "updateDate" : null,
+          "isActive" : false,
+          "id" : "ea309651-4a8d-4593-afc8-120d69de61c3",
+          "name" : "Robótica",
+          "mecCode" : "",
+          "abbreviation" : "",
+          "knowledgeAreas" : [
+            "35d5a429-8b27-460e-8785-c987ce154a9b"
+          ],
+          "series" : null,
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "lastUpdateIsActive" : "2022-03-14T16:44:26.168Z"
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "de0cb83a-0d05-40f0-b5a0-3be3f2235fa5",
+        "_score" : 1.0,
+        "_source" : {
+          "creationDate" : "2022-02-07T03:12:49+00:00",
+          "updateDate" : null,
+          "isActive" : true,
+          "id" : "de0cb83a-0d05-40f0-b5a0-3be3f2235fa5",
+          "name" : "Certificação",
+          "mecCode" : "",
+          "abbreviation" : "",
+          "knowledgeAreas" : [
+            "02626d0d-546e-48a1-88ee-73a95c72a89a"
+          ],
+          "series" : null,
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9"
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "0835a883-2125-4233-b304-4f86538e28a6",
+        "_score" : 1.0,
+        "_source" : {
+          "creationDate" : "2022-03-14T12:39:41+00:00",
+          "updateDate" : null,
+          "isActive" : true,
+          "id" : "0835a883-2125-4233-b304-4f86538e28a6",
+          "name" : "EAD - Projeto Germinare B3",
+          "mecCode" : "",
+          "abbreviation" : "",
+          "knowledgeAreas" : [
+            "02626d0d-546e-48a1-88ee-73a95c72a89a"
+          ],
+          "series" : [
+            {
+              "idSerie" : "f7f7b9df-fe10-4a9c-ab82-d7d7bf455d6c",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "ad949328-cad3-4090-87e6-05cece0d4f71",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "a0fe9e40-92f6-4d82-ade5-c724d960eabf",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "aaa23be8-f357-4f30-99b0-85a67e6c066f",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f13a1a32-d56c-4466-a562-504b64fa0f0d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "2bba2148-76bf-4de6-9ab1-15d1225f5549",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "5e6211e5-f389-4845-8679-b041b9923109",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "8bfb47da-23c6-46db-906b-d38011338cb9",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "efa964d3-e090-4905-b54c-5ae590ff4c4a",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9"
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "89879360-0639-46b6-bb4c-0813cd5c5ad8",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "d893bb06-100f-4cdc-bef3-49a6145b2d9f"
+          ],
+          "series" : [
+            {
+              "idSerie" : "28808d7a-803a-49cb-b8ff-e209d4dcb892",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "5e6211e5-f389-4845-8679-b041b9923109",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "aaa23be8-f357-4f30-99b0-85a67e6c066f",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Ciências da Natureza",
+          "id" : "89879360-0639-46b6-bb4c-0813cd5c5ad8",
+          "mecCode" : "",
+          "creationDate" : "2022-05-09T19:15:14+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "9a6c3ed5-1ac5-44c8-b97d-666f764e7199",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "d893bb06-100f-4cdc-bef3-49a6145b2d9f"
+          ],
+          "series" : [
+            {
+              "idSerie" : "aaa23be8-f357-4f30-99b0-85a67e6c066f",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f7f7b9df-fe10-4a9c-ab82-d7d7bf455d6c",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "aaa23be8-f357-4f30-99b0-85a67e6c066f",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f7f7b9df-fe10-4a9c-ab82-d7d7bf455d6c",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "ESG",
+          "id" : "9a6c3ed5-1ac5-44c8-b97d-666f764e7199",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T21:50:23+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "51e40915-ca65-43bf-9401-f937bc33448a",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "02626d0d-546e-48a1-88ee-73a95c72a89a"
+          ],
+          "series" : [
+            {
+              "idSerie" : "716c9d3c-d97b-40b9-a159-1a850172693d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "125fe721-2fdb-4092-b9b4-c2dc1ce7d0a4",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Banking",
+          "id" : "51e40915-ca65-43bf-9401-f937bc33448a",
+          "mecCode" : "",
+          "creationDate" : "2022-02-04T01:21:59+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "cf3a7982-1ebe-4d6d-ae38-333f01df0def",
+        "_score" : 1.0,
+        "_source" : {
+          "creationDate" : "2022-04-14T12:42:40+00:00",
+          "updateDate" : null,
+          "isActive" : false,
+          "id" : "cf3a7982-1ebe-4d6d-ae38-333f01df0def",
+          "name" : "Orientação de Estudo",
+          "mecCode" : "",
+          "abbreviation" : "",
+          "knowledgeAreas" : [
+            "d893bb06-100f-4cdc-bef3-49a6145b2d9f"
+          ],
+          "series" : null,
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "lastUpdateIsActive" : "2022-04-14T12:45:00.273Z"
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "7b2314f5-b860-496d-8e29-73c6b79d248b",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "idSeries" : null,
+          "knowledgeAreas" : [
+            "35d5a429-8b27-460e-8785-c987ce154a9b"
+          ],
+          "mecCode" : "TI",
+          "creationDate" : "2021-08-18T20:49:58+00:00",
+          "abbreviation" : "TI",
+          "isActive" : true,
+          "imgDetailsUrl" : null,
+          "lastUpdateIsActive" : "2021-11-04T20:44:37.776Z",
+          "series" : [
+            {
+              "idSerie" : "cc7023f0-d6e8-4576-b088-831c24f9db8b",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "ad46bae0-e9ec-45f2-8d54-75930af32142",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "bc59c3b5-0a4c-4bba-a0fe-2dd9d75a248b",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "63bf3a94-96ed-4971-b5b9-4fa83b27de13",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "e5044e20-29b1-4af8-9c30-5dda06d1bee7",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "8bfb47da-23c6-46db-906b-d38011338cb9",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "efa964d3-e090-4905-b54c-5ae590ff4c4a",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "2bba2148-76bf-4de6-9ab1-15d1225f5549",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "a0fe9e40-92f6-4d82-ade5-c724d960eabf",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "125fe721-2fdb-4092-b9b4-c2dc1ce7d0a4",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "716c9d3c-d97b-40b9-a159-1a850172693d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "28808d7a-803a-49cb-b8ff-e209d4dcb892",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "knowledgeArea" : "35d5a429-8b27-460e-8785-c987ce154a9b",
+          "name" : "TI - Tecnologia da Informação",
+          "id" : "7b2314f5-b860-496d-8e29-73c6b79d248b",
+          "urlIcon" : "-"
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "eafb5365-6aa8-4fff-b503-8b1f06e8acf0",
+        "_score" : 1.0,
+        "_source" : {
+          "creationDate" : "2022-02-05T22:13:18+00:00",
+          "updateDate" : null,
+          "isActive" : false,
+          "id" : "eafb5365-6aa8-4fff-b503-8b1f06e8acf0",
+          "name" : "Arte/Marketing",
+          "mecCode" : "",
+          "abbreviation" : "",
+          "knowledgeAreas" : [
+            "847dc4f2-dcb8-48b9-9e5f-d690da812eb1"
+          ],
+          "series" : [
+            {
+              "idSerie" : "6f662aa6-2160-4e35-bdcf-29635f019c10",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "125fe721-2fdb-4092-b9b4-c2dc1ce7d0a4",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "716c9d3c-d97b-40b9-a159-1a850172693d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "5e6211e5-f389-4845-8679-b041b9923109",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "aaa23be8-f357-4f30-99b0-85a67e6c066f",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "ad949328-cad3-4090-87e6-05cece0d4f71",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "125fe721-2fdb-4092-b9b4-c2dc1ce7d0a4",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "lastUpdateIsActive" : "2022-02-25T20:09:36.852Z"
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "94e3d701-f8f3-4ff5-a907-d3e910931e7a",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "35d5a429-8b27-460e-8785-c987ce154a9b"
+          ],
+          "series" : [
+            {
+              "idSerie" : "125fe721-2fdb-4092-b9b4-c2dc1ce7d0a4",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "716c9d3c-d97b-40b9-a159-1a850172693d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "28808d7a-803a-49cb-b8ff-e209d4dcb892",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f13a1a32-d56c-4466-a562-504b64fa0f0d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "2bba2148-76bf-4de6-9ab1-15d1225f5549",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f7f7b9df-fe10-4a9c-ab82-d7d7bf455d6c",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "a0fe9e40-92f6-4d82-ade5-c724d960eabf",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Design Digital",
+          "id" : "94e3d701-f8f3-4ff5-a907-d3e910931e7a",
+          "mecCode" : "",
+          "creationDate" : "2022-03-14T16:40:32+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "650257b2-57bf-4243-9010-78d632639827",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "02626d0d-546e-48a1-88ee-73a95c72a89a"
+          ],
+          "series" : [
+            {
+              "idSerie" : "6f662aa6-2160-4e35-bdcf-29635f019c10",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "125fe721-2fdb-4092-b9b4-c2dc1ce7d0a4",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "716c9d3c-d97b-40b9-a159-1a850172693d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Lógica",
+          "id" : "650257b2-57bf-4243-9010-78d632639827",
+          "mecCode" : "",
+          "creationDate" : "2022-02-04T01:12:12+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "c1f6b99e-15cd-4f8c-8a1b-6eb1436ded8e",
+        "_score" : 1.0,
+        "_source" : {
+          "creationDate" : "2022-02-08T18:10:45+00:00",
+          "updateDate" : null,
+          "isActive" : true,
+          "id" : "c1f6b99e-15cd-4f8c-8a1b-6eb1436ded8e",
+          "name" : "Desenvolvimento e Carreira",
+          "mecCode" : "",
+          "abbreviation" : "",
+          "knowledgeAreas" : [
+            "f26b89df-b9dd-43d2-aa3f-bd09de892d0a",
+            "9fe6ad1c-ad22-4daa-8b94-8491eaea424e"
+          ],
+          "series" : [
+            {
+              "idSerie" : "ad949328-cad3-4090-87e6-05cece0d4f71",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9"
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "aef4045e-f30e-4453-b439-7a5acc8cbeb3",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "f26b89df-b9dd-43d2-aa3f-bd09de892d0a"
+          ],
+          "series" : [
+            {
+              "idSerie" : "ad949328-cad3-4090-87e6-05cece0d4f71",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Lógica de Programação",
+          "id" : "aef4045e-f30e-4453-b439-7a5acc8cbeb3",
+          "mecCode" : "",
+          "creationDate" : "2022-02-05T22:14:22+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "cccfa711-260b-4505-8515-5d522ddcae5a",
+        "_score" : 1.0,
+        "_source" : {
+          "creationDate" : "2022-04-26T14:39:00+00:00",
+          "updateDate" : null,
+          "isActive" : true,
+          "id" : "cccfa711-260b-4505-8515-5d522ddcae5a",
+          "name" : "Formação Docente Continuada",
+          "mecCode" : "",
+          "abbreviation" : "",
+          "knowledgeAreas" : null,
+          "series" : null,
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9"
+        }
+      },
+      {
+        "_index" : "school_disciplines",
+        "_type" : "_doc",
+        "_id" : "2842c4a0-cb1f-4184-a1a7-55a5da3fdfa3",
+        "_score" : 1.0,
+        "_source" : {
+          "idSchoolYear" : "adae9d45-6708-4bb6-8f22-5b443e07a8c9",
+          "updateDate" : null,
+          "knowledgeAreas" : [
+            "847dc4f2-dcb8-48b9-9e5f-d690da812eb1"
+          ],
+          "series" : [
+            {
+              "idSerie" : "716c9d3c-d97b-40b9-a159-1a850172693d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "28808d7a-803a-49cb-b8ff-e209d4dcb892",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "6f662aa6-2160-4e35-bdcf-29635f019c10",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "125fe721-2fdb-4092-b9b4-c2dc1ce7d0a4",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f13a1a32-d56c-4466-a562-504b64fa0f0d",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "5e6211e5-f389-4845-8679-b041b9923109",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "2bba2148-76bf-4de6-9ab1-15d1225f5549",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "f7f7b9df-fe10-4a9c-ab82-d7d7bf455d6c",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "aaa23be8-f357-4f30-99b0-85a67e6c066f",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            },
+            {
+              "idSerie" : "a0fe9e40-92f6-4d82-ade5-c724d960eabf",
+              "credits" : 0,
+              "weight" : 0,
+              "teoricCH" : 0,
+              "practiceCH" : 0
+            }
+          ],
+          "name" : "Marca & Desafio",
+          "id" : "2842c4a0-cb1f-4184-a1a7-55a5da3fdfa3",
+          "mecCode" : "",
+          "creationDate" : "2022-05-25T19:53:46+00:00",
+          "isActive" : true,
+          "abbreviation" : ""
+        }
+      }
+    
+]
